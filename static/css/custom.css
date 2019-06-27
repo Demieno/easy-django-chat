@@ -1,0 +1,21 @@
+.page-title {
+    text-align: center;
+}
+
+.errorlist {
+    display: none;
+}
+
+form > label {
+    font-size: 1.5vw;
+    color: darkred;
+}
+
+.message-color {
+    padding: 3px;
+    border-radius: 3px;
+    background: #b0bec5;
+    color: darkred;
+    overflow: hidden;
+    font-size: 1vw;
+}
