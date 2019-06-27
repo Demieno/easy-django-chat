@@ -47,6 +47,8 @@ $ cd easy-django-chat
 ## Setup
 ```
 $ pipenv install && pipenv shell
+$ cd chat
+$ mkdir bd
 $ python manage.py makemigrations
 $ python manage.py migrate
 ```
