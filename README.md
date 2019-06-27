@@ -40,7 +40,7 @@
 ## Setup Template
 
 ```
-$ git clone https://github.com/gtalarico/django-vue-template
+$ git clone git@github.com:Demieno/easy-django-chat.git
 $ cd easy-django-chat
 ```
 
