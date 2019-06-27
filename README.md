@@ -5,6 +5,7 @@
 Это шаблон простого одностраничного чата собранного на django, materialize.css
 Установка зависимостей осуществляется используя Pipenv - 
 [instructions](https://pipenv.readthedocs.io/en/latest/install/#installing-pipenv)
+Зависимости проекта находятся в Pipfile.
 
 ### Includes
 
